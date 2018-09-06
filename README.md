@@ -1,2 +1,3 @@
 # Discrete Math
-## Assignments from Coursera Online Class 
+## Assignments from Coursera Online Class
+## Jupyter notebooks
