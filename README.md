@@ -1,2 +1,2 @@
 # Discrete Math
-## Assignments from Coursera Class
+## Assignments from Coursera Online Class 
